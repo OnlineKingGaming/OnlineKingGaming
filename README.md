@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @OnlineKingGaming
+- 👋 Hi, I’m glb_dev
 - 👀 I’m interested in Programming/Designing
